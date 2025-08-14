@@ -1,3 +1,9 @@
+## 📚 Documentation  
+Full project documentation is available in **Polish**.  
+Even if you don’t speak Polish, you’ll find **many valuable screenshots** from SSIS and SSAS projects — all labels, menus, and configuration settings are in **English**, making it easy to follow.
+
+---
+
 # Real Estate Data Warehouse with SSAS Cube and Power BI Reports
 
 This project demonstrates a complete data warehousing and analytics pipeline focused on the UK property market.  
